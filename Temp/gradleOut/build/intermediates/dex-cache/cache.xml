@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/JDoh/.android/build-cache/7d6da34f2e03c85b3992ee23a76ba0ee9b2eb41f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3b08b853fe85764387602ff10decaf2b449f4ea2">
+        <dex dex="/Users/JDoh/Desktop/Dev/Unity/UnityRepo/MatchAR/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_5392482304f150640ed0f350a94dc70defd21b9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/JDoh/Desktop/Dev/Unity/UnityRepo/MatchAR/Temp/gradleOut/libs/unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1fe606101cdb82d4a24700b3b5a5dfe9581db921">
+        <dex dex="/Users/JDoh/Desktop/Dev/Unity/UnityRepo/MatchAR/Temp/gradleOut/build/intermediates/pre-dexed/release/unity-classes_254085c44fc679b431723752c457fc80911d087a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/JDoh/.android/build-cache/e8e30843de1d18756a4f65125128cd6f21a5e4a2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="448cd9e15d90e66e4b1e8e3f02e4c953f44c6f31">
+        <dex dex="/Users/JDoh/Desktop/Dev/Unity/UnityRepo/MatchAR/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_7a0de10862e03155640c2dbfefbd8d808dbce6a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/JDoh/.android/build-cache/7d6da34f2e03c85b3992ee23a76ba0ee9b2eb41f/output/jars/libs/tango_java_lib.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="dac29b41332a170a55310a99e3e2f3058e3ac419">
+        <dex dex="/Users/JDoh/Desktop/Dev/Unity/UnityRepo/MatchAR/Temp/gradleOut/build/intermediates/pre-dexed/release/tango_java_lib_dc6494c673adb93816f61f9f4f5789cc787bbad5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/JDoh/.android/build-cache/0f6489214a477910ec3ac54f6fd3e800d8c56142/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="be35cfb98dbf80214072c4eb41da843fb0d4400d">
+        <dex dex="/Users/JDoh/Desktop/Dev/Unity/UnityRepo/MatchAR/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_27dde848d6c213d3a2718de9ff35044f87dd28f1.jar" />
+    </item>
+
+</items>

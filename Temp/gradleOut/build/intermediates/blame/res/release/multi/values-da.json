@@ -1,0 +1,102 @@
+[
+    {
+        "outputFile": "/Users/JDoh/Desktop/Dev/Unity/UnityRepo/MatchAR/Temp/gradleOut/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-da/values-da.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "/Users/JDoh/.android/build-cache/e8e30843de1d18756a4f65125128cd6f21a5e4a2/output/res/values-da/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 199,
+                        "endColumn": 48,
+                        "endOffset": 247
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 108,
+                    "endColumn": 53,
+                    "endOffset": 157
+                },
+                "from": {
+                    "file": "/Users/JDoh/.android/build-cache/e8e30843de1d18756a4f65125128cd6f21a5e4a2/output/res/values-da/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 248,
+                        "endColumn": 49,
+                        "endOffset": 297
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 162,
+                    "endColumn": 95,
+                    "endOffset": 253
+                },
+                "from": {
+                    "file": "/Users/JDoh/.android/build-cache/e8e30843de1d18756a4f65125128cd6f21a5e4a2/output/res/values-da/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 298,
+                        "endColumn": 91,
+                        "endOffset": 389
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 258,
+                    "endColumn": 104,
+                    "endOffset": 358
+                },
+                "from": {
+                    "file": "/Users/JDoh/.android/build-cache/e8e30843de1d18756a4f65125128cd6f21a5e4a2/output/res/values-da/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 390,
+                        "endColumn": 100,
+                        "endOffset": 490
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 363,
+                    "endColumn": 67,
+                    "endOffset": 426
+                },
+                "from": {
+                    "file": "/Users/JDoh/.android/build-cache/e8e30843de1d18756a4f65125128cd6f21a5e4a2/output/res/values-da/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 491,
+                        "endColumn": 63,
+                        "endOffset": 554
+                    }
+                }
+            }
+        ]
+    }
+]
