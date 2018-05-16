@@ -152,6 +152,8 @@
     <Compile Include="Assets\GoogleARCore\SDK\Scripts\Utility\IntPtrEqualityComparer.cs" />
     <Compile Include="Assets\GoogleARCore\SDK\Scripts\Utility\MarshalingHelper.cs" />
     <Compile Include="Assets\SceneController.cs" />
+    <Compile Include="Assets\ScoreboardController.cs" />
+    <Compile Include="Assets\SnakeController.cs" />
     <Compile Include="Assets\TrackedPlaneController.cs" />
     <None Include="Assets\GoogleARCore\Examples\HelloAR\Materials\Shaders\PlaneGrid.shader" />
     <None Include="Assets\GoogleARCore\Examples\HelloAR\Materials\Shaders\MobileDiffuseWithLightEstimation.shader" />
